@@ -1,0 +1,55 @@
+app.title=AI Model Studio - Java Edition
+menu.file=File
+menu.import=Import Model
+menu.save=Save Model
+menu.setPath=Set Model Path
+menu.exit=Exit
+menu.help=Help
+menu.about=About
+
+panel.model=Model Structure
+panel.samples=Sample Management
+panel.train=Training Parameters
+panel.infer=Inference
+panel.stat=Statistics
+panel.save=Save
+panel.log=Log
+
+label.modelName=Model Name:
+label.author=Author:
+label.inputDim=Input Dim:
+label.epochs=Epochs:
+label.lr=Learning Rate:
+label.autoLr=Auto LR
+label.augment=Augment
+label.sampleCount=Samples: 
+label.loss=Loss: 
+label.status=Ready
+label.path=Path: 
+label.stat=Correct: 0 | Wrong: 0 | Accuracy: 0%
+
+btn.new=New
+btn.addLayer=Add Layer
+btn.delLayer=Delete Layer
+btn.addSample=Add Sample
+btn.showSamples=Sample List
+btn.augment=Data Augment
+btn.recommend=Recommend Samples
+btn.train=Start Training
+btn.stop=Stop
+btn.curve=Training Curve
+btn.infer=Inference
+btn.save=Save Model (.msmodel)
+btn.clearLog=Clear Log
+
+msg.blankModel=Blank model created (input dim: 3)
+msg.modelCreated=Model created
+msg.layerAdded=Layer added
+msg.layerDeleted=Layer deleted
+msg.sampleAdded=Sample added
+msg.noSample=No samples
+msg.trainComplete=Training complete!
+msg.training=Training...
+msg.pleaseCreateModel=Please create a model first
+msg.pleaseAddLayer=Please create a model and add layers
+msg.pleaseAddSample=Please add training samples

@@ -1,0 +1,55 @@
+app.title=AI 模型工坊 - Java 版
+menu.file=文件
+menu.import=导入模型
+menu.save=保存模型
+menu.setPath=设置模型路径
+menu.exit=退出
+menu.help=帮助
+menu.about=关于
+
+panel.model=模型结构
+panel.samples=样本管理
+panel.train=训练参数
+panel.infer=推理
+panel.stat=统计
+panel.save=保存
+panel.log=日志
+
+label.modelName=模型名称:
+label.author=作者:
+label.inputDim=输入维度:
+label.epochs=轮数:
+label.lr=学习率:
+label.autoLr=自适应
+label.augment=增强
+label.sampleCount=样本数: 
+label.loss=损失: 
+label.status=就绪
+label.path=路径: 
+label.stat=正确: 0 | 错误: 0 | 准确率: 0%
+
+btn.new=新建
+btn.addLayer=添加层
+btn.delLayer=删除层
+btn.addSample=添加样本
+btn.showSamples=样本列表
+bin.evolve=进化训练
+btn.recommend=推荐样本数
+btn.train=开始训练
+btn.stop=停止
+btn.curve=训练曲线
+btn.infer=推理
+btn.save=保存模型 (.msmodel)
+btn.clearLog=清空日志
+
+msg.blankModel=已创建空白模型 (输入维度: 3)
+msg.modelCreated=模型已创建
+msg.layerAdded=已添加层
+msg.layerDeleted=已删除层
+msg.sampleAdded=样本添加成功
+msg.noSample=暂无样本
+msg.trainComplete=训练完成!
+msg.training=训练中...
+msg.pleaseCreateModel=请先创建模型
+msg.pleaseAddLayer=请先创建模型并添加层
+msg.pleaseAddSample=请先添加训练样本
