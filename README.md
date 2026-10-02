@@ -1,4 +1,4 @@
-# MiniAI
+# EasyAI
 
 一个用 Java Swing 写的简易神经网络工具，用来练手和学习。
 
@@ -41,7 +41,7 @@ A personal learning project for understanding the basics of neural networks. The
 
 ## 项目结构 / Project Structure
 ```
-MiniAI/
+EasyAI/
 ├── src/com/ai/
 │   ├── Main.java              入口 / Entry point
 │   ├── GUI.java               界面 / Swing UI
