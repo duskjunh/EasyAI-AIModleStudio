@@ -40,7 +40,7 @@ A personal learning project for understanding the basics of neural networks. The
 ---
 
 ## 项目结构 / Project Structure
-
+```
 MiniAI/
 ├── src/com/ai/
 │   ├── Main.java              入口 / Entry point
@@ -58,7 +58,7 @@ MiniAI/
 │   ├── zh_CN.lang             中文
 │   └── en_US.lang             英文 / English
 └── manifest.txt
-
+```
 ---
 
 ## 模型格式 / Model Format
