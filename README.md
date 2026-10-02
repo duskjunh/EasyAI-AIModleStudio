@@ -108,12 +108,6 @@ Issues and pull requests are welcome.
 
 ## 编译运行 / Build & Run
 
-### Windows（一键打包）/ Windows (one-click build)
-
-双击 `build.bat` 即可 / Double-click `build.bat`
-
-### 编译 / Manual build
-
 ```
 # 编译 / Compile
 javac -encoding UTF-8 -d out src/com/ai/*.java
@@ -129,6 +123,7 @@ cd ..
 
 # 运行 / Run
 java -jar MiniAI.jar
+```
 
 # 许可证 / License
 MIT License
